@@ -1,0 +1,11 @@
+path: /Users/yohmori/Desktop/PythonProjects/Fish_Detector/data # root dir
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: Neon tetra
+  1: Siamese Flying Fox
+  2: Ember Tetra
+  3: African Lampeye
+  4: Rummy Nose Tetra
