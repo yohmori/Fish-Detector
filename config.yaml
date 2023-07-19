@@ -1,4 +1,4 @@
-path: /Users/yohmori/Desktop/PythonProjects/Fish_Detector/data # root dir
+path: ./Fish_Detector/data # root dir
 train: images/train
 val: images/val
 
