@@ -17,3 +17,4 @@ In this project, I leverage YOLOv8n to detect five types of tropical fish in rea
 - **05_realtime_predict.ipynb:** Predict using your PC camera. Predicts using live/real-time camera feed
 - **config.yaml:** You may specify the exact location of your train and validation datasets. You may also change the classes to be predicted. Here, I have the 5 fish types.
 - **data/:** Images and CVAT coordinates for training and validation. Currently has 1000 training images and 300 validation images, with thousands of instances labeled.
+- **runs/detect/train9...** Includes best and last model trained as well as several metrics visualised such as confusion matrix and F-1 curve.
